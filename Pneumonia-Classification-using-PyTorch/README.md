@@ -17,10 +17,8 @@ This project involves classifying pneumonia from chest X-ray images using a deep
 
 3. **`Pneumonia_Classification.ipynb`**: The main notebook for performing pneumonia classification and running the model.
 
-4. **`scripts/`**: Contains Python scripts for training and other tasks.
-   - **`train.py`**: The training script for the model.
 
-5. **`results/`**: Contains output from training, including plots and saved models.
+4. **`results/`**: Contains output from training, including plots and saved models.
    - **`training_plots/`**: Folder for storing plots of training accuracy and loss.
    - **`final_model.pth`**: The final trained model file.
 
