@@ -7,7 +7,7 @@ This project involves classifying pneumonia from chest X-ray images using a deep
 
 ## Project Structure:
 
-1. **`chest_xray_data/`**: Contains the dataset (X-ray images).
+1. **`chest_xray_data/data`**: Contains the dataset (X-ray images).
    - **Note**: Due to the large size of the dataset, it is **not hosted on GitHub**.
    - You can download the dataset from the following Kaggle link:
      - [Download Chest X-ray Pneumonia Dataset on Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
