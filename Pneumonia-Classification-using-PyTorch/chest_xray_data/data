@@ -1,1 +1,5 @@
+Contains the dataset (X-ray images).
 
+Note: Due to the large size of the dataset, it is not hosted on GitHub.
+You can download the dataset from the following Kaggle link:
+Download Chest X-ray Pneumonia Dataset on Kaggle
